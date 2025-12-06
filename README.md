@@ -51,7 +51,7 @@ It demonstrates the fundamental concepts of smart contracts, token transfers, al
 
 ### Check Balance
 ```solidity
-balanceOf(0x5B38Da6a701c568545dCfcB03FcB875f56beddC4 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4) → returns 1000000000000000000000000
+balanceOf(0x5B38Da6a701c568545dCfcB03FcB875f56beddC4) → returns 1000000000000000000000000
 ```
 
 ### Transfer Tokens
